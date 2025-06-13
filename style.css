@@ -1,0 +1,32 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #f5f0ff;
+}
+.container {
+  max-width: 600px;
+  margin: auto;
+  padding: 2rem;
+  text-align: center;
+}
+input, textarea {
+  width: 100%;
+  margin: 1rem 0;
+  padding: 1rem;
+  font-size: 1rem;
+}
+button {
+  padding: 1rem 2rem;
+  background: #7c4dff;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+.card {
+  background: white;
+  padding: 2rem;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
